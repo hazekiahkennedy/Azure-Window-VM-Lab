@@ -46,7 +46,7 @@ By completing this lab, you will be able to:
 ### 2. Configure Basic Settings (Basics Tab)
 - **Subscription:** Select your active subscription.
 - **Resource Group:** Click **Create new**
-  - **Naming Convention:**
+  - **Naming Convention:** RG-[ProjectName]-[Date]
   - Example:`RG-WindowsVM-Lab-011126`
 - **Virtual Machine Name:**  
   - Example: `VM-Win-011126`
@@ -150,4 +150,5 @@ By completing this lab, you will be able to:
 
 **Why this matters:**  
 Deleting the resource group removes the VM, disk, IP address, and network together—preventing unexpected charges.
+
 
